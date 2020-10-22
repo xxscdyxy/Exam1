@@ -76,7 +76,6 @@ int main()
         printf("%3.2f  ", ¦È4[i]);
         printf("\n");
     }
-return 0;
 
 
 
